@@ -2,6 +2,8 @@
 
 Source Code for the talk given at [JSHeroes](https://jsheroes.io/)
 
+View the slides here: [Slides](https://merelyanna.github.io/introductionToBabylonJS/)
+
 Talk was given together by Christina Zenzes and Anna Backs.
 Find Christina on twitter: [merelyChristina](https://twitter.com/merelyChristina).
 Find Anna on twitter: [merelyAnna](https://twitter.com/merelyAnna).
