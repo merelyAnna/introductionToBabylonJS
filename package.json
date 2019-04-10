@@ -17,7 +17,9 @@
     "babylonjs-loaders": "^3.2.0",
     "babylonjs-materials": "^3.3.0",
     "cannon": "^0.6.2",
-    "copy-webpack-plugin": "^4.6.0"
+    "copy-webpack-plugin": "^4.6.0",
+    "earcut": "^2.1.5",
+    "oimo": "^1.0.9"
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
